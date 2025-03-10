@@ -1,16 +1,10 @@
 [
     {
-        "title": "sakeena",
+        "title": "The Day",
         "author": "Sakeena",
         "year": 0,
-        "genre": "dddddddddddddd",
+        "genre": "science",
         "read": false
     },
-    {
-        "title": "alishba",
-        "author": "Sakeena",
-        "year": 3,
-        "genre": "science",
-        "read": true
-    }
+
 ]
