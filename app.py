@@ -7,6 +7,7 @@ import streamlit as st
 def get_db_connection():
     return mysql.connector.connect(
         host="localhost",
+        host="https://personal-library-manager-sakeena.streamlit.app/",
         user="Sakeena",  
         password="03701131858", 
         database="library_db"
